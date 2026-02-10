@@ -11,7 +11,7 @@ int main(){
   assert(suma(-1,1)==0);
   assert(suma(10,10)==20);  
 
-  printf("EXIT: Tots els tests han passat correctament!\n");
+  printf("Editat en github EXIT: Tots els tests han passat correctament!\n");
   return 0;
 
 }
